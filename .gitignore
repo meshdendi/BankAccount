@@ -24,3 +24,11 @@ hs_err_pid*
 
 .idea/
 *.iml
+
+HELP.md
+
+*.lst
+
+.mvn/*
+boot/
+target/
